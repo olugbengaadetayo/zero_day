@@ -1,1 +1,1 @@
-my readme message
+Hello ubuntu
